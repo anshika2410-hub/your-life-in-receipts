@@ -1,0 +1,7 @@
+﻿Transaction_ID,Vendor_Name,Transaction_Date,Transaction_Time,Total_Spent,Category,Location_City,Item_Breakdown,Emotional_Vibe,User_Notes
+KG_101,Blue Bottle Coffee,2025-08-10,08:30 AM,6.50,Coffee & Fuel,San Francisco CA,"Single Origin Pour Over, Almond Croissant",Focused,Morning brainstorm before opening the IDE
+KG_102,GitHub Enterprise,2025-08-12,10:00 PM,21.00,Tech & Tools,Digital Cloud,"Pro Copilot Seat, Action Minutes",Determined,Scaling our repository automation
+KG_103,Amoeba Music Records,2025-08-15,04:20 PM,48.00,Music & Live,Berkeley CA,"Miles Davis In A Silent Way Vinyl, Slipmat",Nostalgic,Found a 1974 pressing in the vintage bins
+KG_104,King Noodle House,2025-08-15,09:15 PM,26.50,Food & Dining,Oakland CA,"Spicy Beef Hand-Pulled Noodles, Steamed Dumplings",Satisfied,Shared noodles after digging for records
+KG_105,BART Subway Transit,2025-08-15,11:30 PM,9.20,Transit,Bay Area CA,"Roundtrip Clipper Transit Pass",Quiet,Watching the dark water of the bay from the train
+KG_106,Silver Crest 24hr Diner,2025-08-16,02:40 AM,17.00,Late Night,San Francisco CA,"Cheese Fries, Black Drip Coffee",Exhausted & Inspired,Deploying beta release v0.9 at 2am
